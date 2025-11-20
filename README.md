@@ -1,6 +1,6 @@
 # ct216AppAmazing
 
-This template should help get you started developing with Vue 3 in
+This project is the in class test project for the module CT216.
 
 ## Recommended IDE Setup
 
