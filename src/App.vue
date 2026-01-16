@@ -1,11 +1,15 @@
-<script setup></script>
+<script setup>
+
+  let i = "im an i"
+  console.log(i)
+</script>
 
 <template>
   <h1>You did it!</h1>
   <p>
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
-  </p>
+  </p> <p> </p>
 </template>
 
 <style scoped></style>
